@@ -1,0 +1,71 @@
+@use '../custom' as *;
+
+.menu{
+background: rgb(0, 0, 0);
+
+   li{
+    padding: 1rem 10px;
+    
+}
+a{
+    color: rgba(198, 193, 193, 0.9) !important;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+    i{
+color: rgba(198, 193, 193, 0.9);
+font-size: 0.75rem;
+
+
+    }
+   
+.dropdown-item:hover{
+        transition: all .3s linear;
+        color: rgb(43, 42, 42) !important;
+    }
+  .a:hover{
+    transition: all .1s linear;
+    color: $light !important;
+i{
+    transition: all .1s linear;
+    color: $light !important;
+}
+a{
+    transition: all .1s linear;
+    color: $light !important;
+}
+  }
+    span:hover{       
+        transition: all .1s linear;
+        color: $light!important;
+    i{
+        transition: all .1s linear;
+        color: $light !important;
+    }
+    a{
+        transition: all .1s linear;
+        color: $light !important;
+    }
+    }
+   
+}
+
+#navbarDropdownMenuLink:hover{
+    transition: all .3s linear;
+    color: $light !important;
+}
+.image{
+    padding-right:50px;
+    
+    }
+    .font-rale{
+        color: red;
+    }
+  
+    .cautare{
+        border-color:white;
+        border-style: solid;
+        border-width: 1px;
+        border-radius:5px;
+    }

@@ -1,0 +1,22 @@
+@use'custom';
+
+//components
+@use 'components/animations';
+@use 'components/buttons';
+@use 'components/mixins';
+@use 'components/typography';
+@use 'components/images';
+
+
+//section
+@use 'sections/navbar.scss';
+@use 'sections/footer.scss';
+@use 'sections/main.scss';
+@use 'sections/signup.scss';
+@use 'sections/profile.scss';
+@use 'sections/insert.scss';
+
+//fonts
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+

@@ -1,0 +1,78 @@
+
+.insert{
+    
+    margin-top:130px;
+
+    //width: 60%;
+
+    padding: 0px;
+   // background: rgb(253, 253, 253);
+    border-radius: 20px;
+    
+}
+.list-group-item{
+    background: #777;
+    width: 400px;
+    
+}
+
+.list-group-input{
+    background: #AAA;
+    width: 100%;
+    
+}
+
+
+.descriere{
+    background: #AAA;
+    width: 100%;
+    
+    height: 100px;
+    word-wrap: break-word;
+    word-break: break-all;
+    
+}
+
+.b{
+    font-weight: bold;
+}
+
+.lm{
+    margin-left: 300px;
+}
+
+._insert{
+
+    
+    span{
+margin-left: 5px;
+    }
+
+    button{
+        border-radius: 10px;
+        padding: 5px,5px,5px,5px;
+        
+    }
+    
+    input::-webkit-input-placeholder {
+        color: rgb(0, 0, 0) !important;
+}
+
+    input{
+        border-radius: 10px;
+        margin-left: 10px !important;
+    margin-left: 0px !important;
+    }
+
+}
+.insert2{
+    
+    margin-top:40px;
+
+    //width: 60%;
+
+    padding: 0px;
+   // background: rgb(253, 253, 253);
+    border-radius: 20px;
+    
+}
